@@ -65,6 +65,14 @@ Fleetbase • ERPNext / Frappe • OpenBoxes • Traccar • MQTT • telematics
 - **Inventor — FLEET-INTEL-002**, filed U.S. provisional patent application, 2026, relating to dual-time provenance, authority-bounded evidence ingestion, custody lineage, and evidence continuity.
 - **Proposed Principal Investigator / Technical Lead** for a U.S. Department of Transportation SBIR Phase I submission focused on predictive safety analytics, privacy-preserving record linkage, and explainable discrepancy findings.
 - Selected as one of three drivers nationwide for a **UC San Diego TREDS distraction-free driving pilot** with FMCSA involvement.
+- **California Trucking Association Driver of the Month — January 2025.**
+
+## Education & Credentials
+
+- Post Graduate Program in Generative AI for Business Applications — University of Texas at Austin
+- B.A., Theology
+- Earlier technical certifications: CCNP; MCSE + I
+- Class A CDL with N, T, and Air Brake endorsements
 
 ## Background
 
